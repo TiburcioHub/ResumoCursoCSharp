@@ -8,6 +8,7 @@
 - `git commit -m "tipo: descrição"`: Salvar as alterações.
 - `git push`: Enviar para o GitHub.
 - `git pull`: Trazer novidades do GitHub.
+- `git init`: Inicia monitoramento  do git no diretório.
 
 ## 🌿 Gerenciando Branches
 - `git branch`: Ver em qual "galho" estou.
