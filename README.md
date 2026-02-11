@@ -11,8 +11,8 @@
 | `git status` | Verificar se há mudanças na área de preparação. |
 | `git add .` | adicionar mudanças à área de preparação (staging area).. |
 | `git commit -m "..."` | Salvar as mudanças da área de preparação |
-| `git pull` | Traz os commits feito no repositório remoto. |
-| `git push` | Envia os commits realizados no repositório local para o remoto. |
+| `git pull` | traz os commits do GitHub para o seu PC. 📥. |
+| `git push` | Envia seus commits locais para o GitHub. 📤 |
 
 # Trabalhando com "Branch" 🌳
 
