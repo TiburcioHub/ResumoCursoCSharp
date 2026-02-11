@@ -11,7 +11,16 @@
 | `git pull` | Traz as novidades da nuvem para o seu PC. |
 | `git remote add origin [url]` | Indica o repositório que os arquivos vão ser mandados. |
 
+<<<<<<< HEAD
 
 
 
 
+=======
+# Trabalhando com "Branch" 🌳
+
+ Comandos | O que fazem? |
+| :--- | :--- |
+| `git checkout -b [nome branch]` | Cria uma nova branch e pula para ela.|
+| `git merge [nome branch] -b [nome branch]` |Traz as mudanças do galho para onde você está agora.|
+>>>>>>> modo-noturno
