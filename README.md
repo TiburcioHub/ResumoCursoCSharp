@@ -10,9 +10,9 @@
 | `git init` | Começa a monitor as mudanças na pasta |
 | `git status` | Verificar se há mudanças na área de preparação. |
 | `git add .` | adicionar mudanças à área de preparação (staging area).. |
-| `git commit -m "..."` | Salva a "foto" com uma mensagem. |
-| `git pull` | Traz as novidades da nuvem para o seu PC. |
-| `git remote add origin [url]` | Indica o repositório que os arquivos vão ser mandados. |
+| `git commit -m "..."` | Salvar as mudanças da área de preparação |
+| `git pull` | Traz os commits feito no repositório remoto. |
+| `git push` | Envia os commits realizados no repositório local para o remoto. |
 
 # Trabalhando com "Branch" 🌳
 
