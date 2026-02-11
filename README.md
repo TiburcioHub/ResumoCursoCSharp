@@ -26,7 +26,8 @@
 
 
 
-# Dicas de padronização de comentários
+# Dicas de padronização de mensagens
+### commit -m "..."
 
 |Tipos | Quando usar| 
 |:--- | :---|
