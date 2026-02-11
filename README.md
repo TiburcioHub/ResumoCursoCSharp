@@ -7,7 +7,7 @@
 
 | Comandos | O que fazem? |
 | :--- | :--- |
-| `git init` | Começa o Git na pasta. |
+| `git init` | Começa a monitor as mudanças na pasta |
 | `git status` | Vê o que mudou e o que está no "limbo". |
 | `git add .` | adicionar mudanças à área de preparação (staging area).. |
 | `git commit -m "..."` | Salva a "foto" com uma mensagem. |
