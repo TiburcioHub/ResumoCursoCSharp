@@ -1,30 +1,24 @@
 # Conectando repositório local com o remoto.
-- git remote add origin [URL]
- - git push -u origin main 
+- `git remote add origin [URL]` - Conecta a pasta local com o repositório local.
+ - `git push -u origin main `
 
+## 🔄 Comandos diários
+- `git status`: Ver o que mudou.
+- `git add .`: Preparar tudo para o commit.
+- `git commit -m "tipo: descrição"`: Salvar as alterações.
+- `git push`: Enviar para o GitHub.
+- `git pull`: Trazer novidades do GitHub.
 
-# Primeiros comandos em git
+## 🌿 Gerenciando Branches
+- `git branch`: Ver em qual "galho" estou.
+- `git checkout -b nome`: Criar e entrar num novo galho.
+- `git checkout nome`: Pular para um galho existente.
+- `git merge nome`: Trazer mudanças de um galho para o atual.
 
-| Comandos | O que fazem? |
-| :--- | :--- |
-| `git init` | Começa a monitor as mudanças na pasta |
-| `git status` | Verificar se há mudanças na área de preparação. |
-| `git add .` | adicionar mudanças à área de preparação (staging area).. |
-| `git commit -m "..."` | Salvar as mudanças da área de preparação |
-| `git pull` | traz os commits do GitHub para o seu PC. 📥. |
-| `git push` | Envia seus commits locais para o GitHub. 📤 |
-
-# Trabalhando com "Branch" 🌳
-
- Comandos | O que fazem? |
-| :--- | :--- |
-| `git checkout -b [nome branch]` | Cria uma nova branch e pula para ela.|
-| `git merge [nome branch] ` |Mescla as mudanças da branch X para Y.|
-| `git checkout [nome branch] ` |Navegar entre as branch.|
-| `git branch [nome branch] ` |Listar branchs.|
-| ` branch -d [nome branch] ` |Deletar branch após merge.|
-
-
+## 🆘 Comandos de Emergência
+- `git reset --soft HEAD~1`: Desfazer o último commit (mantendo os arquivos).
+- `git remote -v`: Verificar se estou conectado ao repositório certo.
+- `git log --oneline`: Ver o histórico de forma simplificada.
 
 # Dicas de padronização de mensagens
 ### commit -m "..."
