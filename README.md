@@ -31,9 +31,9 @@
 
 |Tipos | Quando usar| 
 |:--- | :---|
-|`feat 🚀`|Quando você adiciona uma funcionalidade nova ao projeto.|
-|`fix 🛠️`|Quando você conserta um erro (bug) que encontrou.|
-|`docs 📚`|Quando você altera apenas a documentação (como o README.md).|
-|`style 🎨`|"Mudanças que não afetam o código (espaços, formatação, ponto e vírgula)."|
-|`refactor ♻️`|"Uma mudança no código que não corrige erro nem adiciona função, apenas melhora a estrutura."|
+|`feat 🚀`| feat: Quando você adiciona uma funcionalidade nova ao projeto.|
+|`fix 🛠️`| fix: Quando você conserta um erro (bug) que encontrou.|
+|`docs 📚`|docs: Quando você altera apenas a documentação (como o README.md).|
+|`style 🎨`| style: "Mudanças que não afetam o código (espaços, formatação, ponto e vírgula)."|
+|`refactor ♻️`|refactor :"Uma mudança no código que não corrige erro nem adiciona função, apenas melhora a estrutura."|
 
