@@ -17,4 +17,6 @@
 | :--- | :--- |
 | `git checkout -b [nome branch]` | Cria uma nova branch e pula para ela.|
 | `git merge [nome branch] ` |Mescla as mudanças da branch X para Y.|
+| `git checkout [nome branch] ` |Navegar entre as branch.|
+| `git branch [nome branch] ` |Listar branchs.|
 
