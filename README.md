@@ -19,4 +19,6 @@
 | `git merge [nome branch] ` |Mescla as mudanças da branch X para Y.|
 | `git checkout [nome branch] ` |Navegar entre as branch.|
 | `git branch [nome branch] ` |Listar branchs.|
+| ` branch -d [nome branch] ` |Deletar branch após merge.|
+
 
