@@ -1,5 +1,8 @@
+# Esse readme tem por objetivo trazer um resumo sobre as principais funções aprendidas no curso da Eli.
+
+
 # Conectando repositório local com o remoto.
-- `git remote add origin [URL]` - Conecta a pasta local com o repositório local.
+- `git remote add origin [URL]` - Conecta a pasta local com o repositório remoto.
  - `git push -u origin main `
 
 ## 🔄 Comandos diários
