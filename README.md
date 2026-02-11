@@ -16,3 +16,4 @@
  Comandos | O que fazem? |
 | :--- | :--- |
 | `git checkout -b [nome branch]` | Cria uma nova branch e pula para ela.|
+| `git merge [nome branch] -b [nome branch]` |Traz as mudanças do galho para onde você está agora.|
