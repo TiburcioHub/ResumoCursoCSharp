@@ -3,7 +3,7 @@
 ![Variáveis](https://img.shields.io/badge/-variavel-blue) `camelCase`
 
 
-![classes](https://img.shields.io/badge/-classes-green)  `camelCase`
+![classes](https://img.shields.io/badge/-classes-green)  `Pascalcase`
 
 
 ![methods](https://img.shields.io/badge/-methods-yellow) `Pascalcase`
