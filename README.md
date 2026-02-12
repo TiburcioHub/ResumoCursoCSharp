@@ -1,4 +1,4 @@
-# Esse repositório tem por objetivo trazer os principais comandos utlizados e apresentados no curso da Eli de git & github
+# Esse repositório tem por objetivo trazer os principais comandos utlizados  de git & github
 
 
 # Conectando repositório local com o remoto. 🔁
