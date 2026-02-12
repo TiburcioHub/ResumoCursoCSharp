@@ -1,4 +1,5 @@
-# Resumo Git&GitHub
+# Resumo Git&GitHub ![Static Badge](https://img.shields.io/badge/github-blue?logo=github) ![Static Badge](https://img.shields.io/badge/git-orange?logo=github)
+
 
 
 
