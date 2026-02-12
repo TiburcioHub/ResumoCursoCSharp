@@ -1,8 +1,4 @@
-# Resumo Git&GitHub ![Static Badge](https://img.shields.io/badge/github-blue?logo=github) ![Static Badge](https://img.shields.io/badge/git-orange?logo=github)
-
-
-
-
+# Resumo Git&GitHub
 # Conectando repositório local com o remoto. 🔁
 - `git remote add origin [URL]` - Conecta a pasta local com o repositório remoto.
  - `git push -u origin main ` - Isso cria uma conexão permanente entre a sua branch local main e a branch main lá no origin (GitHub). 🔗
