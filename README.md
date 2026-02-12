@@ -1,5 +1,3 @@
-# Esse repositório tem por objetivo trazer os principais comandos utlizados  de git & github
-
 
 # Conectando repositório local com o remoto. 🔁
 - `git remote add origin [URL]` - Conecta a pasta local com o repositório remoto.
