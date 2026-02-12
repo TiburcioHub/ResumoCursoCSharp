@@ -2,6 +2,8 @@
 # Conectando repositório local com o remoto. 🔁
 - `git remote add origin [URL]` - Conecta a pasta local com o repositório remoto.
  - `git push -u origin main ` - Isso cria uma conexão permanente entre a sua branch local main e a branch main lá no origin (GitHub). 🔗
+ - `git remote remove origin` - Usado para remover a conexão local com o repositório remoto.
+ - `git remote -v` - Usado para verificar qual repositório estamos conectados.
 
 ## ⌨ Comandos diários
 - `git status`: Ver o que mudou.
