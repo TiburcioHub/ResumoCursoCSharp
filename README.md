@@ -1,11 +1,11 @@
-# Esse readme tem por objetivo trazer um resumo sobre as principais funções aprendidas no curso da Eli.
+# Esse repositório tem por objetivo trazer os principais comandos utlizados e apresentados no curso da Eli de git & github
 
 
-# Conectando repositório local com o remoto.
+# Conectando repositório local com o remoto. 🔁
 - `git remote add origin [URL]` - Conecta a pasta local com o repositório remoto.
- - `git push -u origin main `
+ - `git push -u origin main ` - Isso cria uma conexão permanente entre a sua branch local main e a branch main lá no origin (GitHub). 🔗
 
-## 🔄 Comandos diários
+## ⌨ Comandos diários
 - `git status`: Ver o que mudou.
 - `git add .`: Preparar tudo para o commit.
 - `git commit -m "tipo: descrição"`: Salvar as alterações.
